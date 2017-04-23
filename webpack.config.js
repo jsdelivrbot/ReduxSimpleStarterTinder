@@ -1,4 +1,5 @@
 module.exports = {
+  // devtool: 'cheap-eval-source-map' // mikkel added this
   entry: [
     './src/index.js'
   ],
